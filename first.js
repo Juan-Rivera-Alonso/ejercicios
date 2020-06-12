@@ -113,17 +113,4 @@ let factorial= function(n) {
 */
 
 
-
-/* ejercicios del capitulo 3
-
-function minimo(a,b) {
-    return Math.min(a,b);
-}
-document.write(minimo( 5,6));
-*/
-
-
-
-
-
-
+ 
